@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ajay
-- 👀 I’m interested in ...
+- 👀 I’m interested in Python, Django
 - 🌱 I’m currently learning ReactJS
 
 <!---
